@@ -1,0 +1,23 @@
+{
+  "name": "ejer-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "palindromo.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian-Urrutia/repo-test-14-08.git"
+  },
+  "author": "julian-urrutia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Julian-Urrutia/repo-test-14-08/issues"
+  },
+  "homepage": "https://github.com/Julian-Urrutia/repo-test-14-08#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
